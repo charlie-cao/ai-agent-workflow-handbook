@@ -1,0 +1,16 @@
+# 三方仓库（独立 clone 的项目）
+agency-agents/
+awesome-openclaw-agents/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# 汉化中间产物（可由脚本重新生成）
+# scripts/agent-names-zh.json 保留于版本控制中
